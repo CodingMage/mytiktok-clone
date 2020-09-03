@@ -3,6 +3,7 @@ import './video.css'
 // import vid from './vid.mp4';
 import VideoFotter from './VideoFotter';
 import VideoSidebar from './VideoSidebar';
+
 // import Sidebar from './Sidebar';
 // import vid from './vid2.mp4';
 
