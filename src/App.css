@@ -17,7 +17,7 @@ html {
   overflow: scroll;
   width: 93vw;
   margin: 0 auto;
-  max-width: 500px;
+  max-width: 360px;
   scroll-snap-type: y mandatory;
 }
 
